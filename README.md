@@ -8,6 +8,7 @@ An Android app to keep track daily tasks or events.
 
 **Calendar View**
 
+---
 
 <img src="https://github.com/georgemathewk/Nice-Android-App/blob/main/Screenshots/phone_2.jpg" width="300" />    
 
